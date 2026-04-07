@@ -81,5 +81,5 @@ The goal was to analyze grocery sales data to understand:
 
 ## Author
 
-Shantanu Rawat | Shantanu1tech@gmail.com | +91 9310315068
+Shantanu Rawat | Shantanu1tech@gmail.com | +91 9310315068 |
 www.linkedin.com/in/shantanu-rawat
